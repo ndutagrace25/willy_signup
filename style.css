@@ -18,6 +18,9 @@ body {
   color: #01dcf9;
 }
 
+input::placeholder {
+  font-size: 11px !important;
+}
 .agree-text {
   color: #14586b;
   font-weight: bolder;
